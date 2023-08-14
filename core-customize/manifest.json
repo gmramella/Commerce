@@ -3,8 +3,7 @@
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice",
-        "pepestorefront"
+        "mediaconversionbackoffice"
     ],
     "storefrontAddons": [
         {
