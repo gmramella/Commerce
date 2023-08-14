@@ -210,7 +210,6 @@
 	  <extension name= 'cmssmartedit' />
 	  <extension name= 'cmssmarteditwebservices' />
 	  <extension name= 'smartedit' />
-	  <extension name= 'smarteditaddon' />
 	  <extension name= 'smartedittools' />
 	  <extension name= 'smarteditwebservices' />
 	  <extension name= 'stocknotificationfacades' />
@@ -246,6 +245,7 @@
 	  <extension name= 'xyformsfacades' />
 	  <extension name= 'xyformsservices' />
 	  <extension name= 'xyformsweb' />
+	  <!-- <extension name= 'smarteditaddon' /> -->
 	  <!-- <extension name= 'pepestorefront' /> -->
 
 <!-- accelerator + addons are legacy, do not use anymore; just configured to enable end-to-end showcase -->
