@@ -3,7 +3,8 @@
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice"
+        "mediaconversionbackoffice",
+        "pepestorefront"
     ],
     "storefrontAddons": [
         {
@@ -12,6 +13,15 @@
             ],
             "storefronts": [
                 "yacceleratorstorefront"
+            ],
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addons": [
+                "smarteditaddon"
+            ],
+            "storefronts": [
+                "pepestorefront"
             ],
             "template": "yacceleratorstorefront"
         }
