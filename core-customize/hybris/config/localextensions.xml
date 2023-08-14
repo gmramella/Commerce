@@ -49,7 +49,7 @@
 	  <extension name= 'yacceleratorcore' />
 	  <extension name= 'yacceleratorfacades' />
 	  <extension name= 'yacceleratorinitialdata' />
-	  <extension name= 'yacceleratorstorefront' />
+	  <!-- <extension name= 'yacceleratorstorefront' /> -->
 	  <extension name= 'basecommerce' />
 	  <extension name= 'basecommercebackoffice' />
 	  <extension name= 'customerreview' />
