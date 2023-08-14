@@ -210,6 +210,7 @@
 	  <extension name= 'cmssmartedit' />
 	  <extension name= 'cmssmarteditwebservices' />
 	  <extension name= 'smartedit' />
+	  <extension name= 'smarteditaddon' />
 	  <extension name= 'smartedittools' />
 	  <extension name= 'smarteditwebservices' />
 	  <extension name= 'stocknotificationfacades' />
