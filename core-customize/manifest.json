@@ -311,6 +311,10 @@
                 {
                     "name": "smarteditaddon",
                     "contextPath": "/smarteditaddon"
+                },
+                {
+                    "name": "cloudscimwebservices",
+                    "contextPath": "/scim"
                 }
             ]
         },
