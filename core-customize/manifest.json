@@ -1,10 +1,16 @@
 {
-    "commerceSuiteVersion": "2205",
+    "commerceSuiteVersion": "2205.15",
+    "extensionPacks" : [
+    {
+        "name" : "hybris-commerce-integrations",
+        "version" : "2205.7"
+    }
+    ],
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
         "mediaconversionbackoffice",
-        "cloudscimwebservices"
+        "scimwebservices"
     ],
     "storefrontAddons": [
         {
@@ -311,10 +317,6 @@
                 {
                     "name": "smarteditaddon",
                     "contextPath": "/smarteditaddon"
-                },
-                {
-                    "name": "cloudscimwebservices",
-                    "contextPath": "/scim"
                 }
             ]
         },
