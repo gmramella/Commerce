@@ -312,6 +312,10 @@
                 {
                     "name": "smarteditaddon",
                     "contextPath": "/smarteditaddon"
+                },
+                {
+                    "name": "samlsinglesignon",
+                    "contextPath": "/samlsinglesignon"
                 }
             ]
         },
