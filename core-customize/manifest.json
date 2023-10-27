@@ -3,7 +3,9 @@
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice"
+        "mediaconversionbackoffice",
+        "samlsinglesignon",
+        "samlssobackoffice"
     ],
     "storefrontAddons": [
         {
