@@ -213,16 +213,16 @@
                     "contextPath": "/hac"
                 },
                 {
+                    "name": "backoffice",
+                    "contextPath": "/backoffice"
+                },
+                {
                     "name": "mediaweb",
                     "contextPath": "/medias"
                 },
                 {
                     "name": "adaptivesearchwebservices",
                     "contextPath": "/adaptivesearchwebservices"
-                },
-                {
-                    "name": "backoffice",
-                    "contextPath": "/backoffice"
                 },
                 {
                     "name": "smartedit",
@@ -363,6 +363,10 @@
                     "contextPath": "/hac"
                 },
                 {
+                    "name": "backoffice",
+                    "contextPath": "/backoffice"
+                },
+                {
                     "name": "orbeonweb",
                     "contextPath": "/web-orbeon"
                 },
@@ -494,6 +498,10 @@
                     "contextPath": "/hac"
                 },
                 {
+                    "name": "backoffice",
+                    "contextPath": "/backoffice"
+                },
+                {
                     "name": "mediaweb",
                     "contextPath": "/medias"
                 },
@@ -567,6 +575,10 @@
                 {
                     "name": "hac",
                     "contextPath": "/hac"
+                },
+                {
+                    "name": "backoffice",
+                    "contextPath": "/backoffice"
                 },
                 {
                     "name": "mediaweb",
