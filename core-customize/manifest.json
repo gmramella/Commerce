@@ -180,6 +180,10 @@
         {
             "key": "acceleratorservices.payment.url.strict.enabled",
             "value": "false"
+        },
+        {
+            "key": "testegiuseppe",
+            "value": "3"
         }
     ],
     "aspects": [
