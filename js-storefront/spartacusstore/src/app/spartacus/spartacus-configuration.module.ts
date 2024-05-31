@@ -18,7 +18,7 @@ import { defaultCmsContentProviders, layoutConfig, mediaConfig } from "@spartacu
       currency: ['USD', 'GBP'],
       language: ['en', 'de', 'ja', 'zh'],
       baseSite: ['electronics-spa', 'apparel-uk-spa'],
-      urlParameters: ['baseSite', 'language', 'currency']
+      urlParameters: ['baseSite', 'language', 'currency'],
     },
   }), provideConfig(<I18nConfig>{
     i18n: {
@@ -28,7 +28,7 @@ import { defaultCmsContentProviders, layoutConfig, mediaConfig } from "@spartacu
     },
   }), provideConfig(<FeaturesConfig>{
     features: {
-      level: '4.3'
+      level: '2211.19'
     }
   })]
 })
