@@ -4,7 +4,7 @@
     "extensionPacks" : [
         {
             "name" : "hybris-commerce-integrations",
-            "version" : "2211.14"
+            "version" : "2211.12"
         }
     ],
     "extensions": [
